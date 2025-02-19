@@ -39,11 +39,13 @@ main {
 }
 
 .izquierda {
+    width: 50%;
     flex: 1;
     padding: 20px;
 }
 
 .derecha {
+    width: 50%;
     flex: 1;
     padding: 20px;
 }
